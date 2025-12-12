@@ -1,0 +1,201 @@
+ID,State,City,Locality,Property_Type,BHK,Size_in_SqFt,Price_in_Lakhs,Year_Built,Furnished_Status,Floor_No,Total_Floors,Nearby_Schools,Nearby_Hospitals,Public_Transport_Accessibility,Parking_Space,Security,Amenities,Facing,Owner_Type,Availability_Status,Price_per_SqFt,Age_of_Property,Future_Price_5Y,Good_Investment
+1,TG,Bengaluru,LocD,Apartment,3,1322,186.13,2007,Unfurnished,29,24,4,7,0,2,Gated,Gym,North,Builder,Available,14079.43,18,210.17,0
+2,TN,Delhi,LocC,Villa,3,819,367.9,1991,Unfurnished,10,12,9,2,2,0,CCTV,"Pool,Club",South,Agent,Available,44920.63,34,362.3,0
+3,DL,Mumbai,LocA,Villa,3,1520,294.18,2003,Unfurnished,6,1,1,4,0,2,Gated,"Pool,Club",North,Individual,Available,19353.95,22,355.47,0
+4,TN,Mumbai,LocB,Apartment,4,1350,251.95,2002,Unfurnished,11,25,4,1,1,1,CCTV,"Gym,Pool",West,Builder,Available,18662.96,23,316.78,0
+5,TN,Hyderabad,LocA,Apartment,3,1677,380.74,2018,Unfurnished,9,21,4,3,1,1,None,"Gym,Pool",North,Agent,Available,22703.64,7,366.91,0
+6,KA,Delhi,LocA,Villa,4,2257,170.73,2001,Fully,6,20,1,6,1,2,None,"Pool,Club",West,Individual,Available,7564.47,24,243.51,1
+7,DL,Chennai,LocB,House,3,916,382.55,1991,Unfurnished,12,6,4,4,2,0,Guard,Gym,North,Individual,Sold,41763.1,34,696.82,1
+8,DL,Delhi,LocD,Villa,3,2058,71.3,2021,Fully,6,22,3,3,0,2,Guard,"Gym,Pool",West,Agent,Available,3464.53,4,77.08,0
+9,DL,Hyderabad,LocA,Apartment,3,2265,203.83,2002,Unfurnished,23,18,0,3,1,0,Guard,"Pool,Club",East,Agent,Available,8999.12,23,305.61,1
+10,TN,Hyderabad,LocC,Villa,1,1541,122.57,2016,Fully,16,8,2,1,2,1,Gated,"Pool,Club",North,Agent,Available,7953.93,9,197.22,1
+11,TG,Delhi,LocA,Apartment,3,2332,225.14,2006,Semi,9,7,0,7,1,1,None,None,North,Individual,Available,9654.37,19,324.47,1
+12,DL,Hyderabad,LocB,Villa,3,1214,81.57,2020,Semi,28,1,4,5,2,0,CCTV,Gym,East,Agent,Available,6719.11,5,125.09,1
+13,TN,Delhi,LocB,House,2,2300,339.78,2023,Semi,9,21,3,2,0,0,Guard,None,East,Individual,Available,14773.04,2,522.47,1
+14,KA,Bengaluru,LocB,Villa,4,2462,341.63,2013,Semi,23,16,6,1,1,0,CCTV,Gym,North,Agent,Under Construction,13876.12,12,414.37,0
+15,TG,Delhi,LocD,Villa,2,2494,382.99,1995,Semi,3,12,4,4,1,1,CCTV,"Gym,Pool",East,Individual,Available,15356.46,30,786.98,1
+16,KA,Delhi,LocA,Apartment,3,529,78.78,2008,Semi,19,6,9,5,2,1,Guard,Gym,South,Individual,Sold,14892.25,17,153.28,1
+17,TG,Hyderabad,LocD,Apartment,3,494,256.87,2019,Semi,3,20,3,4,2,1,None,"Pool,Club",West,Builder,Available,51997.98,6,493.49,1
+18,TN,Hyderabad,LocD,Apartment,3,2355,200.21,1996,Unfurnished,21,2,1,5,1,0,Guard,"Pool,Club",West,Agent,Available,8501.49,29,369.99,1
+19,MH,Mumbai,LocB,Villa,2,1193,150.87,1999,Unfurnished,6,29,3,7,1,0,CCTV,Gym,West,Agent,Available,12646.27,26,151.82,0
+20,TG,Mumbai,LocB,House,3,2234,153.59,2021,Semi,21,14,1,6,0,1,Guard,Gym,South,Individual,Available,6875.11,4,278.38,1
+21,KA,Bengaluru,LocD,Apartment,3,2083,176.86,2023,Semi,0,4,7,4,1,0,CCTV,Gym,East,Individual,Under Construction,8490.64,2,301.77,1
+22,TN,Mumbai,LocA,Apartment,1,410,287.87,2017,Semi,11,1,2,1,1,2,CCTV,None,East,Individual,Available,70212.2,8,292.47,0
+23,TG,Delhi,LocC,Villa,1,2265,247.35,2004,Semi,23,23,8,5,2,2,Guard,Gym,North,Builder,Available,10920.53,21,345.71,0
+24,MH,Hyderabad,LocD,Apartment,3,1111,194.68,2019,Fully,12,18,3,5,1,1,Gated,"Gym,Pool",East,Builder,Under Construction,17522.95,6,304.85,1
+25,MH,Mumbai,LocA,House,2,2470,48.85,2018,Unfurnished,9,13,5,3,1,1,Guard,None,North,Individual,Sold,1977.73,7,104.03,1
+26,DL,Mumbai,LocB,House,2,1214,49.55,2011,Unfurnished,14,2,9,3,0,2,Gated,None,South,Agent,Under Construction,4081.55,14,85.87,1
+27,DL,Bengaluru,LocB,Apartment,3,745,20.89,1993,Unfurnished,26,9,4,0,0,0,CCTV,Gym,West,Agent,Available,2804.03,32,25.02,0
+28,KA,Bengaluru,LocA,Apartment,2,762,387.73,2009,Unfurnished,12,21,9,4,1,0,CCTV,"Gym,Pool",West,Builder,Under Construction,50883.2,16,831.25,1
+29,TG,Delhi,LocC,Villa,3,1384,22.0,2021,Fully,22,2,0,3,1,0,Gated,None,West,Builder,Available,1589.6,4,32.65,1
+30,TG,Hyderabad,LocB,House,2,2039,59.18,1993,Unfurnished,21,27,8,0,2,1,CCTV,"Pool,Club",East,Individual,Available,2902.4,32,81.93,0
+31,DL,Bengaluru,LocB,House,3,1227,139.55,2016,Semi,21,25,0,6,1,0,Gated,None,North,Agent,Available,11373.27,9,189.98,0
+32,TG,Mumbai,LocB,Apartment,2,755,326.82,2006,Unfurnished,20,9,7,6,1,1,Gated,Gym,North,Individual,Available,43287.42,19,324.9,0
+33,TG,Hyderabad,LocA,Villa,3,1747,385.6,2001,Semi,21,1,8,3,0,2,CCTV,"Gym,Pool",South,Builder,Available,22072.12,24,552.32,1
+34,MH,Hyderabad,LocD,House,2,2263,320.21,2011,Semi,27,11,8,4,2,2,None,Gym,East,Agent,Available,14149.8,14,527.23,1
+35,DL,Mumbai,LocB,House,3,526,282.41,2006,Unfurnished,8,3,0,5,2,1,Gated,"Pool,Club",South,Agent,Under Construction,53690.11,19,379.23,0
+36,TN,Bengaluru,LocD,Villa,2,1003,218.09,1999,Semi,25,20,1,2,0,0,Guard,"Pool,Club",North,Builder,Available,21743.77,26,352.87,1
+37,DL,Mumbai,LocC,Villa,4,2328,52.95,1990,Unfurnished,8,23,0,7,2,2,Guard,"Pool,Club",North,Individual,Available,2274.48,35,63.43,0
+38,TN,Hyderabad,LocB,House,3,1413,384.1,2011,Unfurnished,14,26,9,4,1,1,CCTV,Gym,West,Individual,Available,27183.3,14,546.2,1
+39,MH,Chennai,LocB,House,4,450,308.19,2015,Unfurnished,9,4,1,7,0,0,None,None,East,Agent,Sold,68486.67,10,487.0,1
+40,KA,Chennai,LocC,Villa,3,1830,262.8,2007,Unfurnished,23,18,9,1,1,0,CCTV,Gym,North,Builder,Available,14360.66,18,403.39,1
+41,TG,Delhi,LocB,House,2,2192,308.43,2003,Unfurnished,25,23,7,6,1,2,None,"Gym,Pool",West,Agent,Available,14070.71,22,308.01,0
+42,MH,Mumbai,LocD,Apartment,3,2036,295.16,2018,Semi,24,6,4,3,0,1,Gated,None,East,Builder,Under Construction,14497.05,7,391.37,0
+43,TG,Mumbai,LocA,Apartment,2,2045,262.15,2001,Semi,28,3,6,3,2,2,Gated,"Pool,Club",South,Individual,Under Construction,12819.07,24,559.86,1
+44,KA,Delhi,LocD,Villa,2,1605,392.62,2001,Semi,9,22,1,7,2,2,Gated,Gym,East,Builder,Available,24462.31,24,514.06,0
+45,KA,Delhi,LocA,Villa,1,2254,363.28,1996,Unfurnished,7,11,7,5,1,1,Gated,"Pool,Club",East,Individual,Available,16117.13,29,535.73,1
+46,MH,Delhi,LocA,Villa,3,966,265.73,2018,Semi,23,15,5,7,1,1,Guard,"Pool,Club",North,Builder,Under Construction,27508.28,7,382.67,1
+47,KA,Hyderabad,LocD,Apartment,3,1335,283.41,2000,Unfurnished,15,22,7,1,1,1,Guard,"Gym,Pool",North,Agent,Available,21229.21,25,591.19,1
+48,TN,Mumbai,LocD,House,2,2334,39.61,2022,Unfurnished,16,28,0,5,1,1,CCTV,None,East,Individual,Available,1697.09,3,77.79,1
+49,KA,Hyderabad,LocD,Apartment,4,1732,274.57,1995,Fully,25,5,0,1,1,1,None,"Gym,Pool",North,Agent,Under Construction,15852.77,30,484.7,1
+50,TG,Delhi,LocD,House,2,601,36.78,2004,Unfurnished,26,20,6,2,0,1,Gated,"Gym,Pool",North,Agent,Available,6119.8,21,42.92,0
+51,TG,Mumbai,LocC,Apartment,2,516,243.54,2021,Semi,4,10,7,6,1,1,Gated,"Gym,Pool",North,Individual,Available,47197.67,4,388.6,1
+52,TG,Hyderabad,LocB,House,2,1336,399.75,2000,Semi,3,12,2,3,2,2,None,"Pool,Club",West,Individual,Available,29921.41,25,668.75,1
+53,TG,Hyderabad,LocA,Apartment,1,974,231.21,2012,Unfurnished,17,15,4,3,1,1,None,"Gym,Pool",West,Agent,Available,23738.19,13,288.23,0
+54,TN,Delhi,LocD,Villa,2,936,199.82,2015,Unfurnished,23,17,0,2,0,1,CCTV,"Gym,Pool",East,Agent,Available,21348.29,10,239.02,0
+55,DL,Mumbai,LocD,Apartment,3,2025,138.88,2023,Unfurnished,18,10,6,0,2,1,None,None,North,Agent,Under Construction,6858.27,2,298.36,1
+56,MH,Delhi,LocD,House,3,785,65.8,2023,Fully,3,6,4,6,1,1,Gated,None,West,Agent,Available,8382.17,2,90.13,0
+57,TG,Mumbai,LocC,Apartment,2,874,297.79,2018,Unfurnished,27,18,7,5,1,1,Gated,"Gym,Pool",East,Individual,Available,34072.08,7,627.48,1
+58,KA,Chennai,LocD,Apartment,2,817,93.19,1993,Unfurnished,6,13,7,2,0,0,Gated,None,North,Individual,Available,11406.36,32,171.59,1
+59,TG,Bengaluru,LocD,Apartment,1,1338,63.81,2006,Unfurnished,9,3,8,5,1,1,Gated,None,South,Agent,Available,4769.06,19,102.95,1
+60,KA,Bengaluru,LocD,Villa,4,1354,180.27,2002,Semi,24,24,6,7,2,0,Gated,"Gym,Pool",North,Builder,Sold,13313.88,23,293.81,1
+61,KA,Bengaluru,LocB,Apartment,1,1275,322.23,2004,Unfurnished,17,10,0,4,1,1,CCTV,"Pool,Club",North,Builder,Available,25272.94,21,338.63,0
+62,TG,Delhi,LocC,Villa,3,1162,303.12,2018,Unfurnished,18,14,2,3,1,1,Gated,"Gym,Pool",West,Individual,Available,26086.06,7,467.11,1
+63,TN,Chennai,LocD,Villa,4,1602,40.86,2018,Semi,3,6,7,5,2,1,CCTV,None,East,Agent,Available,2550.56,7,82.49,1
+64,KA,Mumbai,LocA,Apartment,3,1605,192.95,2000,Fully,9,3,2,1,2,2,Gated,"Pool,Club",East,Agent,Available,12021.81,25,331.13,1
+65,KA,Hyderabad,LocA,Apartment,4,1063,218.53,2021,Unfurnished,0,16,7,5,2,1,Guard,Gym,West,Individual,Available,20557.86,4,332.73,1
+66,TG,Mumbai,LocA,Apartment,2,424,264.93,1991,Unfurnished,22,7,0,4,1,1,Guard,"Pool,Club",North,Builder,Under Construction,62483.49,34,570.0,1
+67,KA,Hyderabad,LocC,House,3,2390,267.06,2003,Unfurnished,17,20,4,6,1,1,Guard,None,South,Builder,Sold,11174.06,22,375.88,1
+68,KA,Mumbai,LocC,Apartment,3,1603,158.58,2009,Semi,4,14,3,3,2,1,Guard,"Pool,Club",North,Builder,Available,9892.7,16,201.45,0
+69,TG,Chennai,LocA,Villa,3,1109,233.06,2011,Unfurnished,14,9,4,7,2,0,CCTV,"Gym,Pool",North,Individual,Available,21015.33,14,354.81,1
+70,TG,Hyderabad,LocD,Apartment,1,2279,202.8,2000,Semi,16,15,7,2,0,0,CCTV,Gym,South,Builder,Under Construction,8898.64,25,354.74,1
+71,MH,Delhi,LocC,House,2,1584,356.3,2016,Semi,2,21,9,7,0,1,None,Gym,West,Individual,Under Construction,22493.69,9,345.93,0
+72,TN,Mumbai,LocA,Apartment,2,684,221.5,1992,Semi,11,3,3,4,1,1,Gated,Gym,East,Individual,Available,32383.04,33,347.49,1
+73,TN,Mumbai,LocA,House,3,462,187.59,2006,Unfurnished,1,2,3,3,2,0,Guard,None,West,Agent,Available,40603.9,19,331.36,1
+74,KA,Hyderabad,LocD,House,3,1402,173.7,2017,Fully,0,27,2,5,1,0,CCTV,None,West,Builder,Available,12389.44,8,239.68,0
+75,TN,Delhi,LocB,Apartment,3,1061,237.52,2018,Semi,22,2,6,6,1,0,Gated,Gym,North,Individual,Under Construction,22386.43,7,448.07,1
+76,KA,Delhi,LocC,Villa,1,1892,325.51,2010,Semi,20,3,2,0,0,2,Gated,"Pool,Club",East,Builder,Under Construction,17204.55,15,553.61,1
+77,MH,Chennai,LocD,House,4,1366,224.59,2005,Unfurnished,16,18,2,6,1,1,CCTV,Gym,East,Builder,Available,16441.43,20,529.38,1
+78,TG,Delhi,LocA,Apartment,2,1248,271.43,2009,Fully,21,14,9,0,2,1,Guard,"Pool,Club",West,Agent,Available,21749.2,16,334.18,0
+79,TG,Delhi,LocA,Apartment,2,1507,300.39,1995,Unfurnished,15,20,4,1,1,0,None,"Pool,Club",South,Builder,Sold,19932.98,30,533.03,1
+80,TG,Delhi,LocD,Villa,2,1088,217.66,2008,Unfurnished,4,18,4,6,2,1,Gated,None,West,Agent,Under Construction,20005.51,17,251.27,0
+81,TN,Bengaluru,LocC,House,3,547,182.19,1994,Unfurnished,14,10,5,3,2,0,None,"Pool,Club",South,Individual,Sold,33307.13,31,181.49,0
+82,MH,Chennai,LocB,House,2,741,353.13,1992,Semi,2,25,7,0,1,0,Guard,Gym,East,Builder,Under Construction,47655.87,33,316.32,0
+83,TN,Mumbai,LocB,Apartment,3,1486,178.65,1990,Unfurnished,27,2,9,2,1,1,Guard,None,West,Individual,Available,12022.21,35,296.88,1
+84,TN,Hyderabad,LocA,Apartment,3,2124,195.54,2004,Unfurnished,6,25,5,3,1,0,None,"Gym,Pool",North,Builder,Available,9206.21,21,299.78,1
+85,MH,Mumbai,LocC,Villa,1,1783,396.33,2023,Unfurnished,10,29,0,2,2,0,Guard,"Gym,Pool",West,Individual,Available,22228.27,2,520.56,0
+86,MH,Chennai,LocB,Villa,3,726,20.09,2014,Unfurnished,9,22,7,6,1,0,Gated,None,East,Builder,Available,2767.22,11,19.23,0
+87,MH,Hyderabad,LocC,House,2,2192,90.48,2013,Semi,8,1,7,2,1,0,None,Gym,North,Builder,Available,4127.74,12,113.01,0
+88,MH,Chennai,LocC,House,2,2159,165.91,2001,Semi,13,4,8,0,2,0,Guard,"Gym,Pool",North,Builder,Under Construction,7684.58,24,244.01,1
+89,TG,Delhi,LocA,Apartment,2,1389,374.38,2007,Unfurnished,12,14,8,3,1,1,None,"Gym,Pool",South,Builder,Available,26953.2,18,658.78,1
+90,DL,Hyderabad,LocB,House,2,1351,46.61,2004,Unfurnished,28,1,1,5,2,2,Gated,"Pool,Club",North,Builder,Under Construction,3450.04,21,68.22,1
+91,DL,Delhi,LocD,Villa,3,1122,23.6,2005,Semi,24,14,1,4,1,1,Guard,"Pool,Club",North,Builder,Available,2103.39,20,36.75,1
+92,MH,Mumbai,LocA,Villa,2,2479,40.02,2016,Unfurnished,29,16,2,0,0,1,Gated,Gym,West,Builder,Sold,1614.36,9,53.86,0
+93,DL,Mumbai,LocB,Apartment,3,828,53.65,1997,Unfurnished,24,22,0,0,1,0,Guard,None,East,Builder,Available,6479.47,28,116.35,1
+94,DL,Hyderabad,LocB,Villa,3,1900,34.29,2014,Fully,1,14,3,5,2,2,CCTV,Gym,South,Builder,Available,1804.74,11,39.58,0
+95,MH,Hyderabad,LocB,Villa,3,685,202.32,2006,Semi,2,29,3,3,1,1,Guard,None,West,Individual,Available,29535.77,19,252.17,0
+96,DL,Chennai,LocB,Villa,3,2465,240.69,2018,Unfurnished,6,20,8,3,2,0,None,"Gym,Pool",North,Agent,Available,9764.3,7,315.14,0
+97,TN,Chennai,LocB,Villa,3,1168,123.24,1997,Semi,20,3,8,7,2,1,Guard,"Pool,Club",North,Builder,Under Construction,10551.37,28,205.0,1
+98,KA,Delhi,LocC,Apartment,2,1794,171.35,2004,Unfurnished,17,3,8,6,1,0,Gated,Gym,South,Agent,Under Construction,9551.28,21,196.78,0
+99,KA,Hyderabad,LocA,Apartment,2,593,54.85,2016,Semi,2,9,9,2,2,1,Gated,Gym,East,Builder,Available,9249.58,9,83.16,1
+100,MH,Mumbai,LocC,House,4,1387,147.82,1996,Unfurnished,9,6,6,6,0,1,Guard,None,South,Builder,Available,10657.53,29,225.61,1
+101,TG,Chennai,LocD,Villa,3,1536,218.56,1992,Unfurnished,21,25,1,5,1,2,None,None,West,Individual,Available,14229.17,33,272.73,0
+102,MH,Chennai,LocB,House,2,2101,298.26,2018,Unfurnished,28,13,9,6,0,1,CCTV,Gym,South,Individual,Available,14196.1,7,472.76,1
+103,TG,Mumbai,LocA,Apartment,2,1346,21.27,2013,Fully,6,21,4,5,2,1,None,None,North,Agent,Sold,1580.24,12,24.61,0
+104,KA,Chennai,LocB,Apartment,2,1230,197.58,1992,Semi,8,2,3,3,1,2,CCTV,Gym,West,Individual,Under Construction,16063.41,33,222.61,0
+105,MH,Delhi,LocA,Apartment,4,2320,132.86,2009,Unfurnished,16,8,7,2,0,0,Gated,Gym,North,Individual,Available,5726.72,16,199.76,1
+106,TN,Hyderabad,LocC,Apartment,1,454,344.07,2004,Unfurnished,10,21,1,6,1,0,None,Gym,East,Agent,Under Construction,75786.34,21,338.96,0
+107,DL,Mumbai,LocA,Apartment,2,1199,291.91,2014,Semi,6,2,5,0,1,1,CCTV,"Gym,Pool",North,Individual,Available,24346.12,11,254.26,0
+108,TG,Hyderabad,LocD,Apartment,2,1177,243.86,2019,Unfurnished,23,4,4,1,0,1,Guard,None,North,Builder,Sold,20718.78,6,404.74,1
+109,DL,Chennai,LocD,Apartment,2,1881,125.36,2003,Unfurnished,27,25,1,7,2,1,Gated,"Pool,Club",South,Agent,Available,6664.54,22,233.48,1
+110,DL,Chennai,LocA,Villa,4,2301,365.93,1996,Fully,13,15,9,4,2,2,Guard,"Pool,Club",North,Agent,Under Construction,15903.09,29,482.03,0
+111,MH,Mumbai,LocA,House,1,454,37.14,2006,Unfurnished,18,4,0,0,1,1,Gated,None,West,Builder,Under Construction,8180.62,19,46.64,0
+112,DL,Delhi,LocA,Apartment,3,2223,61.6,2009,Semi,3,13,7,3,2,1,None,Gym,West,Individual,Available,2771.03,16,113.63,1
+113,TN,Bengaluru,LocA,Villa,1,1601,168.82,1998,Fully,25,28,1,4,1,1,None,"Pool,Club",East,Agent,Under Construction,10544.66,27,188.89,0
+114,DL,Mumbai,LocD,Villa,3,1232,67.29,2011,Unfurnished,5,12,6,1,2,2,Gated,"Pool,Club",West,Agent,Available,5461.85,14,71.37,0
+115,MH,Bengaluru,LocB,House,1,712,383.44,1991,Unfurnished,9,28,8,1,1,2,Gated,None,South,Builder,Available,53853.93,34,661.93,1
+116,TN,Bengaluru,LocA,Apartment,1,2258,323.24,2013,Unfurnished,6,13,8,2,1,2,Gated,"Pool,Club",East,Builder,Available,14315.32,12,475.94,1
+117,KA,Delhi,LocA,House,3,2407,118.41,1997,Fully,12,14,7,4,0,0,None,Gym,West,Individual,Sold,4919.4,28,221.31,1
+118,DL,Bengaluru,LocD,Apartment,4,2406,243.65,2000,Fully,13,20,9,2,2,1,CCTV,None,South,Agent,Under Construction,10126.77,25,212.47,0
+119,MH,Bengaluru,LocD,Villa,4,2190,393.29,2002,Semi,3,18,8,0,1,0,Guard,Gym,West,Individual,Under Construction,17958.45,23,413.28,0
+120,KA,Delhi,LocC,Villa,3,727,356.0,2006,Unfurnished,7,29,1,5,0,0,Guard,"Pool,Club",West,Individual,Under Construction,48968.36,19,524.82,1
+121,KA,Bengaluru,LocA,Villa,4,1687,248.3,1997,Semi,4,28,5,5,0,0,None,"Pool,Club",North,Builder,Available,14718.44,28,401.5,1
+122,TG,Bengaluru,LocC,Villa,1,1511,363.42,2010,Fully,0,6,3,5,1,1,Guard,Gym,West,Agent,Sold,24051.62,15,647.22,1
+123,TN,Bengaluru,LocD,House,4,1711,395.89,2007,Semi,3,29,3,4,1,1,Gated,"Gym,Pool",West,Agent,Available,23137.93,18,605.62,1
+124,DL,Mumbai,LocD,Apartment,2,851,302.47,2019,Fully,2,11,4,5,2,0,CCTV,"Pool,Club",South,Agent,Available,35542.89,6,461.63,1
+125,MH,Mumbai,LocB,Apartment,3,1923,44.69,2007,Fully,8,2,2,0,2,1,Guard,"Gym,Pool",South,Builder,Available,2323.97,18,59.95,0
+126,TG,Mumbai,LocA,House,3,564,172.6,2020,Semi,7,28,0,2,0,1,CCTV,"Pool,Club",North,Builder,Under Construction,30602.84,5,361.81,1
+127,TN,Delhi,LocC,Apartment,3,581,338.37,2021,Semi,0,23,7,4,2,1,Gated,"Gym,Pool",West,Builder,Under Construction,58239.24,4,382.55,0
+128,TG,Chennai,LocD,Villa,3,1309,107.62,2000,Unfurnished,26,19,4,2,0,0,Guard,"Gym,Pool",North,Builder,Available,8221.54,25,171.71,1
+129,TN,Bengaluru,LocD,Apartment,2,1222,335.64,2014,Unfurnished,5,19,2,4,2,1,None,"Gym,Pool",West,Builder,Available,27466.45,11,390.25,0
+130,TN,Bengaluru,LocC,Villa,3,1343,65.73,2022,Semi,8,5,9,2,2,1,CCTV,Gym,East,Agent,Under Construction,4894.27,3,109.14,1
+131,DL,Delhi,LocB,House,2,2401,37.84,1997,Unfurnished,6,19,6,1,1,0,Gated,"Gym,Pool",East,Individual,Available,1576.01,28,43.47,0
+132,TN,Bengaluru,LocD,Apartment,4,2454,165.95,2000,Fully,3,2,6,2,2,0,CCTV,"Gym,Pool",North,Agent,Under Construction,6762.43,25,288.81,1
+133,TG,Mumbai,LocA,House,3,729,33.96,2011,Fully,12,10,0,5,1,1,Guard,"Gym,Pool",North,Individual,Sold,4658.44,14,51.21,1
+134,TN,Chennai,LocD,Apartment,2,1174,383.76,2013,Semi,16,25,8,1,1,2,Guard,"Pool,Club",North,Builder,Available,32688.25,12,831.47,1
+135,DL,Hyderabad,LocA,Villa,3,546,333.96,2006,Unfurnished,27,2,1,2,2,1,None,"Gym,Pool",South,Individual,Available,61164.84,19,459.6,0
+136,DL,Bengaluru,LocC,House,3,1314,324.29,2001,Unfurnished,1,11,4,4,1,1,Gated,"Pool,Club",South,Agent,Under Construction,24679.6,24,525.24,1
+137,TG,Mumbai,LocA,Apartment,3,1971,259.32,2021,Unfurnished,27,18,4,4,1,1,Gated,"Gym,Pool",South,Agent,Under Construction,13156.77,4,317.05,0
+138,KA,Hyderabad,LocC,Villa,3,1708,102.2,2004,Semi,4,29,7,7,1,1,None,"Gym,Pool",North,Individual,Available,5983.61,21,140.42,0
+139,KA,Chennai,LocA,House,1,481,216.94,2005,Semi,11,24,7,4,2,0,None,Gym,West,Builder,Sold,45101.87,20,326.64,1
+140,TN,Hyderabad,LocC,House,3,913,246.96,2011,Fully,26,15,6,3,1,1,Gated,"Pool,Club",East,Builder,Available,27049.29,14,251.49,0
+141,MH,Mumbai,LocA,Apartment,4,2320,219.51,2017,Unfurnished,20,9,6,0,0,2,CCTV,"Gym,Pool",North,Agent,Available,9461.64,8,229.7,0
+142,TN,Hyderabad,LocB,Apartment,2,2339,118.89,2009,Fully,7,23,5,4,2,1,CCTV,"Pool,Club",South,Individual,Under Construction,5082.94,16,200.33,1
+143,TG,Delhi,LocA,Apartment,3,1145,215.79,2022,Fully,5,19,5,1,2,2,None,"Pool,Club",South,Builder,Under Construction,18846.29,3,306.49,1
+144,TG,Hyderabad,LocA,Villa,2,1809,206.65,1999,Unfurnished,7,9,8,7,0,1,CCTV,None,North,Builder,Available,11423.44,26,264.19,0
+145,TG,Bengaluru,LocB,Apartment,2,1106,398.61,2021,Fully,17,3,5,4,1,0,Gated,Gym,North,Agent,Under Construction,36040.69,4,492.36,0
+146,TG,Bengaluru,LocD,House,3,870,361.03,2022,Unfurnished,2,21,1,3,0,2,Guard,Gym,South,Builder,Available,41497.7,3,450.07,0
+147,TG,Delhi,LocD,House,3,795,196.08,1991,Unfurnished,21,9,1,5,1,0,Guard,Gym,West,Individual,Available,24664.15,34,295.69,1
+148,DL,Mumbai,LocA,Apartment,2,1955,256.72,2022,Semi,11,28,4,1,1,1,CCTV,None,South,Agent,Available,13131.46,3,417.7,1
+149,KA,Bengaluru,LocB,Apartment,3,1204,304.19,2022,Unfurnished,28,14,3,3,2,0,None,None,South,Agent,Under Construction,25264.95,3,268.56,0
+150,TG,Chennai,LocA,House,1,1333,33.25,2002,Semi,25,19,1,5,1,0,None,Gym,North,Individual,Available,2494.37,23,67.06,1
+151,MH,Bengaluru,LocC,Villa,2,1679,360.07,2019,Semi,2,7,2,6,1,1,None,None,West,Agent,Available,21445.5,6,715.1,1
+152,MH,Bengaluru,LocC,Apartment,1,2157,346.85,2022,Semi,21,16,6,6,1,0,None,None,South,Builder,Available,16080.2,3,287.96,0
+153,MH,Mumbai,LocA,Apartment,2,1304,193.82,2002,Unfurnished,5,16,7,1,2,1,None,None,South,Builder,Under Construction,14863.5,23,363.94,1
+154,MH,Hyderabad,LocD,House,2,1476,168.64,2015,Semi,1,28,5,2,1,1,CCTV,Gym,East,Individual,Available,11425.47,10,314.52,1
+155,DL,Bengaluru,LocD,Apartment,3,2290,123.72,2011,Semi,22,1,4,0,2,0,Guard,Gym,North,Builder,Under Construction,5402.62,14,181.8,1
+156,MH,Delhi,LocA,Villa,3,1923,201.14,1991,Semi,11,4,0,7,1,0,Guard,Gym,East,Individual,Available,10459.7,34,216.84,0
+157,TG,Hyderabad,LocA,House,2,1787,36.86,2015,Unfurnished,1,4,7,0,0,1,CCTV,None,East,Individual,Available,2062.67,10,68.14,1
+158,TN,Chennai,LocC,Apartment,4,1703,343.83,2004,Unfurnished,5,7,2,3,1,1,None,Gym,South,Builder,Available,20189.67,21,477.61,0
+159,MH,Mumbai,LocD,House,3,992,33.46,2023,Semi,16,8,5,5,1,1,CCTV,None,North,Individual,Under Construction,3372.98,2,55.74,1
+160,DL,Chennai,LocA,Apartment,2,527,145.04,2000,Unfurnished,2,17,2,0,1,1,Guard,"Gym,Pool",West,Builder,Sold,27521.82,25,347.52,1
+161,DL,Hyderabad,LocC,Apartment,4,1135,374.0,1992,Semi,1,5,6,5,0,2,Gated,None,South,Agent,Available,32951.54,33,582.32,1
+162,MH,Hyderabad,LocD,Apartment,4,920,299.38,1995,Semi,22,7,6,5,0,1,CCTV,"Pool,Club",West,Agent,Available,32541.3,30,354.12,0
+163,TN,Hyderabad,LocB,Villa,2,636,126.93,1998,Semi,29,28,8,3,2,1,None,Gym,West,Individual,Available,19957.55,27,172.45,0
+164,MH,Chennai,LocC,Villa,2,1704,116.01,1995,Semi,19,20,4,3,1,1,Guard,Gym,North,Builder,Available,6808.1,30,141.5,0
+165,DL,Hyderabad,LocD,House,4,2181,21.93,1998,Fully,7,29,7,3,2,0,Guard,"Pool,Club",East,Builder,Available,1005.5,27,35.59,1
+166,KA,Chennai,LocD,Apartment,3,1701,284.37,2020,Fully,21,20,9,0,1,1,Guard,None,North,Agent,Available,16717.81,5,345.48,0
+167,TG,Hyderabad,LocC,Apartment,1,2451,38.54,2021,Fully,11,4,9,6,1,1,Guard,"Gym,Pool",West,Agent,Available,1572.42,4,50.7,0
+168,DL,Delhi,LocB,Villa,3,841,222.39,2001,Fully,25,28,7,3,1,1,None,"Pool,Club",South,Builder,Available,26443.52,24,240.5,0
+169,MH,Hyderabad,LocC,Apartment,3,2476,385.61,1997,Unfurnished,3,6,0,7,1,1,Gated,"Pool,Club",West,Individual,Available,15573.91,28,549.47,1
+170,TG,Chennai,LocD,Villa,3,1204,61.6,1997,Unfurnished,4,7,4,0,1,2,Guard,None,South,Agent,Under Construction,5116.28,28,94.27,1
+171,MH,Bengaluru,LocA,Apartment,3,474,359.9,2017,Semi,12,18,2,3,1,2,CCTV,Gym,South,Individual,Available,75928.27,8,272.33,0
+172,MH,Hyderabad,LocA,House,3,2489,396.76,2009,Unfurnished,28,5,0,4,0,2,Gated,None,North,Individual,Available,15940.54,16,618.85,1
+173,KA,Bengaluru,LocC,Apartment,2,1779,43.38,1996,Unfurnished,14,20,3,5,1,1,Guard,"Pool,Club",West,Agent,Under Construction,2438.45,29,63.07,1
+174,TG,Delhi,LocD,Apartment,2,440,355.5,2000,Unfurnished,24,29,7,7,1,1,Gated,"Pool,Club",East,Individual,Available,80795.45,25,436.17,0
+175,TG,Mumbai,LocA,Villa,3,2481,216.11,2009,Semi,22,3,2,3,2,1,CCTV,Gym,West,Individual,Available,8710.6,16,497.41,1
+176,KA,Delhi,LocD,Apartment,4,2100,364.48,2005,Semi,15,7,9,1,2,1,Guard,Gym,West,Builder,Available,17356.19,20,665.38,1
+177,DL,Hyderabad,LocC,Apartment,2,1801,237.1,1993,Semi,9,27,1,5,2,1,CCTV,Gym,East,Individual,Available,13164.91,32,268.49,0
+178,MH,Bengaluru,LocA,Villa,3,987,271.6,1995,Semi,29,28,8,5,2,1,None,None,North,Builder,Available,27517.73,30,482.75,1
+179,TN,Bengaluru,LocD,House,3,2022,226.64,2011,Fully,29,22,9,3,1,1,Guard,Gym,West,Agent,Available,11208.7,14,440.65,1
+180,MH,Chennai,LocA,House,2,741,348.51,2015,Unfurnished,24,14,4,6,1,1,Guard,"Pool,Club",West,Agent,Sold,47032.39,10,527.92,1
+181,MH,Bengaluru,LocC,Villa,3,2474,298.89,1992,Fully,22,7,6,2,2,0,Guard,"Pool,Club",South,Builder,Available,12081.24,33,477.16,1
+182,DL,Chennai,LocD,Villa,4,1045,218.08,2003,Unfurnished,15,5,1,6,1,1,Guard,"Gym,Pool",West,Agent,Available,20868.9,22,346.33,1
+183,MH,Mumbai,LocA,Villa,3,1130,349.9,2000,Fully,11,29,8,3,1,0,None,None,East,Individual,Available,30964.6,25,309.42,0
+184,KA,Hyderabad,LocC,Villa,3,567,113.21,2007,Semi,16,22,8,5,0,2,Guard,"Gym,Pool",South,Individual,Available,19966.49,18,159.27,1
+185,KA,Chennai,LocA,Villa,2,1009,79.79,2001,Unfurnished,15,5,3,7,1,1,Gated,"Pool,Club",North,Individual,Available,7907.83,24,110.9,0
+186,TG,Mumbai,LocA,House,3,2172,80.95,2012,Unfurnished,11,23,3,1,1,0,Guard,"Gym,Pool",South,Agent,Under Construction,3726.98,13,163.89,1
+187,TN,Bengaluru,LocB,House,2,2440,146.92,2001,Unfurnished,7,2,5,7,2,0,None,"Pool,Club",East,Individual,Available,6021.31,24,233.07,1
+188,MH,Bengaluru,LocB,Villa,2,854,110.7,2002,Unfurnished,19,27,9,7,1,1,Guard,"Gym,Pool",East,Agent,Available,12962.53,23,151.75,0
+189,MH,Mumbai,LocC,Apartment,3,2108,373.43,2014,Unfurnished,2,21,9,5,1,1,Gated,Gym,South,Individual,Available,17714.9,11,537.34,1
+190,DL,Bengaluru,LocB,Villa,1,1101,60.22,2008,Semi,15,22,9,6,2,1,None,"Gym,Pool",North,Builder,Available,5469.57,17,111.53,1
+191,KA,Mumbai,LocC,Apartment,2,1999,285.62,1997,Semi,29,6,5,1,0,0,None,Gym,South,Agent,Sold,14288.14,28,402.04,1
+192,TN,Chennai,LocB,Villa,3,529,91.9,2018,Semi,12,15,0,0,1,1,Gated,Gym,North,Agent,Available,17372.4,7,114.57,0
+193,TG,Chennai,LocA,Villa,2,2245,355.02,2021,Fully,22,21,8,4,0,1,Gated,None,South,Individual,Available,15813.81,4,489.19,0
+194,KA,Mumbai,LocC,House,2,1786,385.3,2007,Semi,27,10,1,5,2,1,Gated,Gym,East,Agent,Available,21573.35,18,700.63,1
+195,TG,Chennai,LocC,Apartment,3,1092,196.88,1995,Semi,18,23,4,3,2,1,Gated,Gym,West,Agent,Sold,18029.3,30,324.07,1
+196,DL,Chennai,LocA,Apartment,3,1794,354.05,2007,Unfurnished,7,26,8,0,1,1,Gated,"Gym,Pool",West,Builder,Available,19735.23,18,525.57,1
+197,DL,Chennai,LocC,House,2,1193,21.96,2008,Semi,21,24,3,4,2,0,None,"Pool,Club",North,Builder,Available,1840.74,17,33.72,1
+198,MH,Delhi,LocC,House,4,428,331.58,2011,Unfurnished,4,7,2,3,1,2,None,None,North,Individual,Under Construction,77471.96,14,427.26,0
+199,TN,Hyderabad,LocB,House,2,548,106.88,2021,Fully,19,5,6,7,2,1,Guard,Gym,North,Builder,Under Construction,19503.65,4,150.12,1
+200,TG,Bengaluru,LocC,House,3,1719,365.31,1992,Fully,7,1,5,2,2,1,Guard,None,East,Individual,Available,21251.31,33,459.25,0
