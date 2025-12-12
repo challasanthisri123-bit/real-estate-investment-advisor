@@ -31,44 +31,35 @@ with st.form("property_form"):
     availability = st.selectbox("Availability", ["Available","Under Construction","Sold"])
     facing = st.selectbox("Facing", ["North","South","East","West"])
     submitted = st.form_submit_button("Predict")
-    
+
 if submitted:
     price_per_sqft = (price_lakhs * 100000) / max(1, sqft)
     age = 2025 - year_built
-    # Minimal encoding consistent with train.py's factorize order - we use simple hashing via dicts for demo
-    enc = {}
-    def encode(col, val):
-        # deterministic simple encoding based on hashing mapping in app
-        return abs(hash(col+str(val))) % 20  # small bucket encoding for demo
-    
+
     feat = {
-    "BHK": bhk,
-    "Size_in_SqFt": sqft,
-    "Price_per_SqFt": price_per_sqft,
-    "Age_of_Property": age,
-    "Nearby_Schools": schools,
-    "Nearby_Hospitals": hospitals,
-    "Public_Transport_Accessibility": public_transport,
-    "Parking_Space": parking,
-    "City": city,
-    "Property_Type": prop_type,
-    "Furnished_Status": furnished,
-    "Security": security,
-    "Owner_Type": "Individual",
-    "Availability_Status": availability,
-    "Facing": facing
-}
+        "BHK": bhk,
+        "Size_in_SqFt": sqft,
+        "Price_per_SqFt": price_per_sqft,
+        "Age_of_Property": age,
+        "Nearby_Schools": schools,
+        "Nearby_Hospitals": hospitals,
+        "Public_Transport_Accessibility": public_transport,
+        "Parking_Space": parking,
+        "City": city,
+        "Property_Type": prop_type,
+        "Furnished_Status": furnished,
+        "Security": security,
+        "Owner_Type": "Individual",
+        "Availability_Status": availability,
+        "Facing": facing
+    }
 
-X = pd.DataFrame([feat])
-X = pd.get_dummies(X).reindex(columns=clf.feature_names_in_, fill_value=0)
+    X = pd.DataFrame([feat])
 
-st.write("Input features:", X.T)
-
-if clf is not None and reg is not None:
-    pred_clf = clf.predict(X)[0]
-    pred_reg = reg.predict(X)[0]
-    st.success(f"Good Investment? -> {'Yes' if pred_clf==1 else 'No'}")
-    st.info(f"Estimated Price after 5 years (Lakhs): {round(pred_reg,2)}")
-else:
-    st.warning("Models not found. Please run `python train.py` first to create the models/ directory.")
-
+    if clf is not None and reg is not None:
+        pred_clf = clf.predict(X)[0]
+        pred_reg = reg.predict(X)[0]
+        st.success(f"Good Investment? -> {'Yes' if pred_clf==1 else 'No'}")
+        st.info(f"Estimated Price after 5 years (Lakhs): {round(pred_reg,2)}")
+    else:
+        st.warning("Models not found. Please run `python train.py` first to create the models/ directory.")
