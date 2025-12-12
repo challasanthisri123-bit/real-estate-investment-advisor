@@ -47,8 +47,9 @@ print("Classifier accuracy:", accuracy_score(y_test_clf, pred))
 
 reg = RandomForestRegressor(n_estimators=50, random_state=42)
 reg.fit(X_train, y_train_reg)
-pred_r = reg.predict(X_test)
-print("Regressor RMSE:", mean_squared_error(y_test_reg, pred_r, squared=False))
+pred_r = reg.predict(X_test)   
+from math import sqrt
+print("Regressor RMSE:", sqrt(mean_squared_error(y_test_reg, pred_r)))
 
 os.makedirs("models", exist_ok=True)
 joblib.dump(clf, "models/good_investment_clf.joblib")
